@@ -1,0 +1,10 @@
+{
+  "name": "Student Internship Hub",
+  "description": "An AI-powered internship portal for students featuring smart matching, housing, and industrial opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "RTL Support",
+    "AI Matching",
+    "Internship Search"
+  ]
+}
